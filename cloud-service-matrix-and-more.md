@@ -43,6 +43,5 @@
 | **AI Speech Recognition**       | Azure Cognitive Services        | AWS Transcribe                       | Google Cloud Speech-to-Text            | Mozilla DeepSpeech                     | DeepSpeech on Kubernetes               |
 | **AI Text Translation**         | Azure Translator                | AWS Translate                        | Google Cloud Translation               | Apertium / OpenNMT                     | OpenNMT on Kubernetes                  |
 | **AI Image Processing**         | Azure Computer Vision           | AWS Rekognition                      | Google Cloud Vision                    | OpenCV                                 | OpenCV on Kubernetes                   |
-
 | **Infrastructure as Code (IaC)** |	Azure Resource Manager (ARM) |	AWS CloudFormation	|Google Cloud Deployment Manager | 	Terraform / Ansible	Crossplane / Pulumi on K8s |
 
